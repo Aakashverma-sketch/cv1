@@ -1,1 +1,5 @@
-# cv1
+website designed and created using html and css.![Screenshot (10)](https://user-images.githubusercontent.com/98818892/178231941-06d58bdb-a3c7-4148-a4a9-46ef417eed04.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/98818892/178231996-5bbb8261-ec9d-4276-92e4-f1900aa32988.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/98818892/178232063-e4059755-676b-485a-81af-54cc0222d1ba.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/98818892/178232078-0ac0ea79-7674-4c82-ad88-bcf6b06324be.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/98818892/178232111-918b35d9-1074-417f-999b-0954a5507528.png)
